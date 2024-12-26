@@ -1,6 +1,6 @@
 # Emergency - 911 Calls Analysis
 
-For this capstone project we will be analyzing some 911 call data from [Kaggle](https://www.kaggle.com/mchirico/montcoalert). This will be a guided exercise in Python to retrieve the data, clean the data, and then create charts and visualizations using multiple Python packages based on the data. 
+For this capstone project we will be analyzing some 911 call data from [Kaggle](https://www.kaggle.com/mchirico/montcoalert). This will be a guided exercise in Python to retrieve and clean the data, and then create charts and visualizations using multiple Python packages including Numpy, Pandas, MatPlotLib, and Seaborn.  
 
 ## Data
 The csv file contains the following fields and attributes:
